@@ -2,9 +2,12 @@
 
 ## Contents of This Repository
 
+* [Glossary of terms](documentation/glossary.md)
+* [Lit Review notes](documentation/lit_review.md)
+
 ## Background and Goals
 
-Preliminary, exploratory research by this author on part of speech usage in bloggers who self-disclose an ASD (autism spectrum disorder) diagnosis found that bloggers with ASD use fewer possessive pronouns (_his_, _hers_, _my_, etc.) than bloggers who do not disclose a an ASD diagnosis (and are presumed to have typical development).  
+[Preliminary, exploratory research](https://github.com/pm0kjp/neurodiverse-blog-data-miner) by this author on part of speech usage in bloggers who self-disclose an ASD (autism spectrum disorder) diagnosis found that bloggers with ASD use fewer possessive pronouns (_his_, _hers_, _my_, etc.) than bloggers who do not disclose a an ASD diagnosis (and are presumed to have typical development).  
 
 This finding is consistent with other analyses on spoken communication in ASD, and may be explained by a lack of "common ground" (mutually understood shared mental model of conversation topic) in spoken communication.  __(Lit review here!)__  To my knowledge, no analysis has been done on written communication without a specific interlocutor.  This project seeks to extend existing scholarship on linguistic differences in ASD to communications like blog posts.
 
@@ -19,6 +22,8 @@ In this version of my research, I intend to mine a larger number of texts by mor
 ## Project Plan
 
 ### Human Subjects Protection
+
+This study is exempt from review under exemption 4.  This author has completed Human Subjects Protection training through CITI.
 
 ### Literature Review
 
