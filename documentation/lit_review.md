@@ -12,3 +12,7 @@ Interesting quotes / ideas:
 * "Previously published literature tested only subject pronouns." _If this is true, research on possessive pronoun use in people with ASD is relatively novel._
 
 * "It is suggested that children with ASD err in pronoun use due to general deficits in referential facility and not due to syntactic constraints. The children with ASD produced more tokens of ambiguous subject and possessive pronouns compared with the TD group."  _If this is true for children, is it possible that high-functioning, highly motivated bloggers (who are likely to be adults) have responded to feedback that their antecedants are ambiguous and learned to use specific nouns instead of pronouns?_
+
+* "A recent study tested comprehension of possessives and found typical performance in children with ASD (Perovic et al., 2012)."  _So, differences in possessive pronoun usage in people with ASD may not be attributable to a lack of comprehension in receptive language._
+
+* "Subject possessives (Bart’s dad) represent relations between two NPs and are different from possessive pronouns (his dad). In addition, the task in the current study was a production task, whereas Perovic et al. (2012) evaluated a comprehension task. Further research is needed to better understand the linguistically unique features of possessives and to what degree they are preserved in the language of children with ASD." _We're on it!_
