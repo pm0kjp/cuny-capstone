@@ -4,8 +4,43 @@ Highly cited journal articles
 676 citations (the classic): Problems of nosology and psychodynamics of early infantile autism.
 L Kanner - American journal of Orthopsychiatry, 1949 - psycnet.apa.org
 
-654 citations: Language and communication in autism
+-------------
+
+654 citations (Overview work / lit review): Language and communication in autism 
 H Tager-Flusberg, R Paul, C Lord - … autism and pervasive developmental …, 2005 - Citeseer
+
+* Wide variability in language deficits (or lack thereof) in children w autism
+* Both delay and deviance are frequent
+* Joint attention abilities implicated in later levels of language acquisition
+* Significant IQ / language correlation
+* Traits: articulation deficits, neologisms, pedantic speech
+* Verb tense and article use affected
+* Pronomial reversal greater in autistic ppl than any other community (although it does exist elsewhere)
+* Proposed causes of pronomial reversal:
+ - Kanner: echolalia
+ - Rice et al. : issues with reference
+ - Deficits in concepts of self/other in discourse roles (conceptual perpective-taking) *aside: same as ToM?*
+ - "Within autism, difficulty using pronouns is generally viewed as part of a more general difficulty with deixis, the aspect of language that codes shifting reference
+between the speaker and the listener. For example, in labeling a person by name (e.g., “James”), the label remains the same without regard to who is speaking whereas, for pronouns,
+whether James is referred to as “I” or “you” depends on whether he is the speaker or the listener during a particular conversation.
+* Difficulty in knowing interlocutor's knowledge state: "Paul and Feldman (1984) reported in a case series presentation that highly verbal adolescents and
+adults with autism showed difficulties in identifying the topic initiated by the conversational partner and in providing a relevant comment. They had difficulty judging, on the basis of
+cues in the conversation and on the basis of general knowledge about what listeners could reasonably be expected already to have in their knowledge store...'
+* Turn taking affected, tendency to monopolize 
+* "Children and adolescents with autism perform
+less well on tasks of referential communication
+(Loveland, Tunali, McEvoy, & Kelley,
+1989), although many can identify another person’s visual perspective (Baron-Cohen,
+1989; Hobson, 1984). More social and/or more
+complex aspects of referential communication,
+such as those that affect narration and discourse,
+are particularly affected (Hemphill,
+Picardi, & Tager-Flusberg, 1991).
+* Conversationally, more initiation (vs responses) than TD
+* Overall, reciprocity affected.
+* Overall, deficit in "understanding other minds" is affected.
+
+----------------
 
 623 citations: Joint attention and language in autism and developmental language delay
 KA Loveland, SH Landry - Journal of autism and developmental disorders, 1986 - Springer
@@ -46,7 +81,7 @@ SH Landry, KA Loveland - Journal of Child Psychology and …, 1988 - Wiley Onlin
 131 citations: Delayed language onset as a predictor of clinical symptoms in pervasive developmental disorders
 R Eisenmajer, M Prior, S Leekam, L Wing… - Journal of Autism and …, 1998 - Springer
 	
-111 citations: 	The use of personal pronouns by autistic children
+111 citations: The use of personal pronouns by autistic children
 L Bartak, M Rutter - Journal of Autism and Childhood Schizophrenia, 1974 - Springer
 
 109 citations: Profiles of language and communication skills in autism
@@ -79,8 +114,12 @@ HK Seung - Clinical Linguistics & Phonetics, 2007 - Taylor & Francis
 51 citations: Comprehension of reflexive and personal pronouns in children with autism: A syntactic or pragmatic deficit?
 A Perovic, N Modyanova, K Wexler - Applied Psycholinguistics, 2013 - cambridge.org
 
+-----------------
 38 citations: Personal pronouns and communicative engagement in autism
 RP Hobson, A Lee, JA Hobson - … of Autism and Developmental Disorders, 2010 - Springer
+
+* "Jordan (1989) reported that in a semi-structured game in which a tester asked questions about what happened, children with autism differed from matched children without autism in their greater tendency to employ proper names, rather than ‘I’ or ‘you’, in exchanges with the tester."
+
 
 36 citations: Individual differences in pronoun reversal: Evidence from two longitudinal case studies
 KE Evans, K Demuth - Journal of child language, 2012 - cambridge.org
