@@ -47,16 +47,30 @@ A Lee, RP Hobson, S Chiat - … of autism and developmental disorders, 1994 - Sp
 
 232 citations: Exploration of strategies for facilitating the reading comprehension of high-functioning students with autism spectrum disorders
 IM O'connor, PD Klein - Journal of autism and developmental disorders, 2004 - Springer
+-------------
 
 202 citations: Conversational behaviors in youth with high-functioning ASD and Asperger syndrome
 R Paul, SM Orlovski, HC Marcinko… - Journal of autism and …, 2009 - Springer
 
+Link: https://link-springer-com.remote.baruch.cuny.edu/article/10.1007/s10803-008-0607-1
+
+Limited notes, not immediately applicable to current study
+
+* Based on ADOS interviews
+* Pragmatic Rating Scale used as measure
+* PRS # 16 which includes "Failure to reference pronouns" did not show sign. group differences
+
+
+
+
 -----------
 
-200 citations: Narrative discourse in adults with high-functioning autism or Asperger syndrome
-L Colle, S Baron-Cohen, S Wheelwright… - Journal of Autism and …, 2008 - Springer
+200 citations: "Narrative discourse in adults with high-functioning autism or Asperger syndrome".
+Livia Colle, Simon Baron-Cohen, Sally Wheelwright, Heather K. J. van der Lely. Journal of Autism and Developmental Disorders, January 2008, Volume 38, Issue 1, pp 28–40
 
-* Deficits found in referential use of personal pronouns and in production of temporal expressions in adults with HFA / AS
+Link: https://link-springer-com.remote.baruch.cuny.edu/article/10.1007/s10803-007-0357-5
+
+* Deficits found in referential use of personal pronouns / zero anaphors and in production of temporal expressions in adults with HFA / AS
 * Narration requires adequate ToM:
  - To choose what's relevant to the listener
  - To grasp listener current knowledge state
@@ -85,9 +99,16 @@ L Colle, S Baron-Cohen, S Wheelwright… - Journal of Autism and …, 2008 - Spr
  - Differences in some referential devices
   * number of references made did not differ significantly
   * length of narration similar (not a confounder)
-  * V. important to my hypothesis: "As predicted, the control group maintained reference to a character in focus by using pronominal expressions more often, the effect of which was to make the narrative move ‘faster’ and more cohesively, than if full NPs had been used. Also as predicted, this pattern of reference used by the control group was the opposite of how they re-introduced a character. The AS group showed less use of pronominal expressions and conversely more full NPs to maintain focus on a protagonist."
+  * V. important to my hypothesis: "As predicted, the control group maintained reference to a character in focus by using pronominal expressions more often, the effect of which was to make the narrative move ‘faster’ and more cohesively, than if full NPs had been used. Also as predicted, this pattern of reference used by the control group was the opposite of how they re-introduced a character. The AS group showed less use of pronominal expressions and conversely more full NPs to maintain focus on a protagonist." 
+  * "people with AS preferentially used simple and unlinked sentences, without taking into account the relation between a specific event with what had happened before"
  - HFA/AS had less well organized / cohesive stories than controls
-
+ - Mixed results re ambiguous references, depending on which character
+ - No significant difference for the groups in theory of mind expressions
+ - No significant difference in causal expressions
+ - Fewer temporal expressions
+ - "... suggest an impairment in the ability to establish links between particular episodes with more global themes, highlighting difficulties in referential ability"
+ - Stories equally lengthy and complex, no global syntactical deficits to explain referential difficulties 
+ - Overall: strong language abilities but subtle ToM linguistic differences
 
 
 ---------

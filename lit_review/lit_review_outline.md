@@ -17,6 +17,12 @@
 ## The autistic blogosophere
 ### Trends in disclosure / neurodiversity movement
 ### Studies of bloggers w ASD disclosure
+### Using blogs can remove some confounders
+* social motivation
+* nv communication errors with in-person interlocutors
+* pacing, prosody, articulation
+* turn-taking
+* restricted interests / self-centered communication
 
 
 
