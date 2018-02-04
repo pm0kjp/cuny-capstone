@@ -4,6 +4,8 @@
 
 * clitics 
 
+* deixis
+
 * Government and binding theory:  "Government and binding (GB, GBT) is a theory of syntax and a phrase structure grammar (as opposed to a dependency grammar) in the tradition of transformational grammar developed principally by Noam Chomsky in the 1980s." [Wikipedia](https://en.wikipedia.org/wiki/Government_and_binding_theory).  "The binding theory that became established at that time is still considered a reference point, though its validity is no longer accepted." [Wikipedia](https://en.wikipedia.org/wiki/Binding_(linguistics))
 
 * Principle A, B, C: Principles of binding theory.  __Principle A__ states that reflexive (*himself*, *ourselves*, etc.) and reciprocals (e.g. *each other*) must have antecedents (be bound) that make sense (right gender/number etc.) in the same sentence -- they can't stand alone.  Additionally, the antecedent has to be well-bound (can't be too close or too far apart, or it won't make sense).  An example of ill-formed syntax with bad binding would be *John thinks that I like himself*.  __Principle B__ states that other pronouns must *not* be bound.  __Principle C__ 

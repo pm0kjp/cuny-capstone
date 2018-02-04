@@ -1,5 +1,7 @@
-Highly cited journal articles 
+## Highly cited journal articles, pronoun related
 (Source: search "autism pronouns", "ASD pronouns", "aspberger's pronouns" in Google Scholar)
+
+------------
 
 676 citations (the classic): Problems of nosology and psychodynamics of early infantile autism.
 L Kanner - American journal of Orthopsychiatry, 1949 - psycnet.apa.org
@@ -20,21 +22,10 @@ H Tager-Flusberg, R Paul, C Lord - … autism and pervasive developmental …, 2
  - Kanner: echolalia
  - Rice et al. : issues with reference
  - Deficits in concepts of self/other in discourse roles (conceptual perpective-taking) *aside: same as ToM?*
- - "Within autism, difficulty using pronouns is generally viewed as part of a more general difficulty with deixis, the aspect of language that codes shifting reference
-between the speaker and the listener. For example, in labeling a person by name (e.g., “James”), the label remains the same without regard to who is speaking whereas, for pronouns,
-whether James is referred to as “I” or “you” depends on whether he is the speaker or the listener during a particular conversation.
-* Difficulty in knowing interlocutor's knowledge state: "Paul and Feldman (1984) reported in a case series presentation that highly verbal adolescents and
-adults with autism showed difficulties in identifying the topic initiated by the conversational partner and in providing a relevant comment. They had difficulty judging, on the basis of
-cues in the conversation and on the basis of general knowledge about what listeners could reasonably be expected already to have in their knowledge store...'
+ - 'Within autism, difficulty using pronouns is generally viewed as part of a more general difficulty with deixis, the aspect of language that codes shifting reference between the speaker and the listener. For example, in labeling a person by name (e.g., “James”), the label remains the same without regard to who is speaking whereas, for pronouns, whether James is referred to as “I” or “you” depends on whether he is the speaker or the listener during a particular conversation.'
+* 'Difficulty in knowing interlocutor's knowledge state: "Paul and Feldman (1984) reported in a case series presentation that highly verbal adolescents and adults with autism showed difficulties in identifying the topic initiated by the conversational partner and in providing a relevant comment. They had difficulty judging, on the basis of cues in the conversation and on the basis of general knowledge about what listeners could reasonably be expected already to have in their knowledge store...'
 * Turn taking affected, tendency to monopolize 
-* "Children and adolescents with autism perform
-less well on tasks of referential communication
-(Loveland, Tunali, McEvoy, & Kelley,
-1989), although many can identify another person’s visual perspective (Baron-Cohen,
-1989; Hobson, 1984). More social and/or more
-complex aspects of referential communication,
-such as those that affect narration and discourse,
-are particularly affected (Hemphill,
+* "Children and adolescents with autism perform less well on tasks of referential communication (Loveland, Tunali, McEvoy, & Kelley, 1989), although many can identify another person’s visual perspective (Baron-Cohen, 1989; Hobson, 1984). More social and/or more complex aspects of referential communication, such as those that affect narration and discourse, are particularly affected (Hemphill,
 Picardi, & Tager-Flusberg, 1991).
 * Conversationally, more initiation (vs responses) than TD
 * Overall, reciprocity affected.
@@ -60,11 +51,51 @@ IM O'connor, PD Klein - Journal of autism and developmental disorders, 2004 - Sp
 202 citations: Conversational behaviors in youth with high-functioning ASD and Asperger syndrome
 R Paul, SM Orlovski, HC Marcinko… - Journal of autism and …, 2009 - Springer
 
+-----------
+
 200 citations: Narrative discourse in adults with high-functioning autism or Asperger syndrome
 L Colle, S Baron-Cohen, S Wheelwright… - Journal of Autism and …, 2008 - Springer
 
+* Deficits found in referential use of personal pronouns and in production of temporal expressions in adults with HFA / AS
+* Narration requires adequate ToM:
+ - To choose what's relevant to the listener
+ - To grasp listener current knowledge state
+ - To grasp the desired future state of listener knowledge
+* HFA / AS attractive group for study bc "they afford the opportunity to test if social deficits affect linguistic abilities even in the presence of intact cognitive functioning in other domains (such as general intelligence)."
+* Narrative abilities had not been studied well in adult population at time of publication.
+* Previous work in narrative abilities in autistic children show:
+ - deficit in pragmatic markers of time and space
+ - reduced expressions of mental states
+ - inappropriate utterances and idiosyncratic gestures during storytelling 
+ - reduced complexity and number of causal statements
+ - narration not adapted to the listener
+* "In general these findings of narrative deficits in autism have been interpreted as reflecting a deficit of ToM."
+* Communication style of ppl w autism "one-sided" - diminished apparent awareness of perspective of listener, inappropriate topic changes, rambling, driven by person w autism, "holding forth".
+* Studies show strong correlation between language and ToM abilities.  Scholarship differs on whether language development paves the way for well-developed ToM or vice-versa.
+* Main emphasis of this study: two kinds of referential expressions: anaphoric personal pronouns and temporal expressions, because they require a ToM to reference properly.
+* Proper use of anaphor requires contextual awareness of topics and the listener's POV
+* Development of anaphoric referential expression use occurs quite late in language development, is an advanced skill.
+* Temporal adverbs (‘now’, ‘tomorrow’, ‘meanwhile’, etc.) are also referential, with same requirements as anaphoric pronouns and zeros
+* Experiment: narrating story from picture book often used in other studies
+* Interesting description of methods too long to summarize here but probably helpful for closer analysis of texts.  Categories of coding include Length and Episodes, Reference Analysis, Temporal Relations, Mental State Expressions
+* Statistical method: "Parametric statistical tests were not appropriate since variables were not normally distributed. The results were therefore analysed using one-tailed Mann–Whitney tests, corrected for multiple comparisons."
+* Results:
+ - Subjects showed no difficulty with using appropriate phonology and syntax
+ - No differences in plot comprehension
+ - Differences in some referential devices
+  * number of references made did not differ significantly
+  * length of narration similar (not a confounder)
+  * V. important to my hypothesis: "As predicted, the control group maintained reference to a character in focus by using pronominal expressions more often, the effect of which was to make the narrative move ‘faster’ and more cohesively, than if full NPs had been used. Also as predicted, this pattern of reference used by the control group was the opposite of how they re-introduced a character. The AS group showed less use of pronominal expressions and conversely more full NPs to maintain focus on a protagonist."
+ - HFA/AS had less well organized / cohesive stories than controls
+
+
+
+---------
+
 193 citations: REVIEW ARTICLE Brief report: Current theory and research on language and communication in autism
 H Tager-Flusberg - Journal of Autism and Developmental disorders, 1996 - Springer
+
+----------
 
 187 citations: On the origins of self and the case of autism
 RP Hobson - Development and Psychopathology, 1990 - cambridge.org
