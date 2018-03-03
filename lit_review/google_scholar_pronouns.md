@@ -9,7 +9,11 @@ L Kanner - American journal of Orthopsychiatry, 1949 - psycnet.apa.org
 -------------
 
 654 citations (Overview work / lit review): Language and communication in autism 
-H Tager-Flusberg, R Paul, C Lord - … autism and pervasive developmental …, 2005 - Citeseer
+H Tager-Flusberg, R Paul, C Lord.  Chapter 12 in Volkmar, F. R., Paul, R., Klin, A., & Cohen, D. J. (Eds.). (2005). Handbook of autism and pervasive developmental disorders, diagnosis, development, neurobiology, and behavior : diagnosis, development, neurobiology, and behavior. Retrieved from https://ebookcentral.proquest.com
+
+No abstract.
+
+Notes:
 
 * Wide variability in language deficits (or lack thereof) in children w autism
 * Both delay and deviance are frequent
@@ -34,20 +38,40 @@ Picardi, & Tager-Flusberg, 1991).
 ----------------
 
 623 citations: Joint attention and language in autism and developmental language delay
-KA Loveland, SH Landry - Journal of autism and developmental disorders, 1986 - Springer
+KA Loveland, SH Landry - Journal of autism and developmental disorders, 1986 - Springer 
+
+(used 1988 updated version?  Could not track this one down.)
+
+------------------
 
 574 citations: The simulating social mind: the role of the mirror neuron system and simulation in the social and communicative deficits of autism spectrum disorders.
 LM Oberman, VS Ramachandran - Psychological bulletin, 2007 - psycnet.apa.org
 
+Abstract: 
+The mechanism by which humans perceive others differs greatly from how humans perceive inanimate objects. Unlike inanimate objects, humans have the distinct property of being “like me” in the eyes of the observer. This allows us to use the same systems that process knowledge about self-performed actions, self-conceived thoughts, and self-experienced emotions to understand actions, thoughts, and emotions in others. The authors propose that internal simulation mechanisms, such as the mirror neuron system, are necessary for normal development of recognition, imitation, theory of mind, empathy, and language. Additionally, the authors suggest that dysfunctional simulation mechanisms may underlie the social and communicative deficits seen in individuals with autism spectrum disorders.
+
+----------------------
 404 citations: Autism, Asperger's syndrome and semantic-pragmatic disorder: where are the boundaries?
 DVM Bishop - British journal of disorders of communication, 1989 - Taylor & Francis
 
-236 citations: I, you, me, and autism: An experimental study
-A Lee, RP Hobson, S Chiat - … of autism and developmental disorders, 1994 - Springer
+could not track down.
 
-232 citations: Exploration of strategies for facilitating the reading comprehension of high-functioning students with autism spectrum disorders
-IM O'connor, PD Klein - Journal of autism and developmental disorders, 2004 - Springer
--------------
+---------------
+
+236 citations: Lee, A., Hobson, R. P., & Chiat, S. (1994). I, you, me, and autism: an experimental study. Journal Of Autism And Developmental Disorders, 24(2), 155-176.
+
+Abstract: 
+The nature of autistic individuals' abnormalities in the use of personal pronouns has been a topic of considerable speculation but little systematic investigation. We tested groups of CA- and verbal MA-matched autistic and nonautistic mentally retarded children and young adults on a series of tasks that involved the comprehension and use of the personal pronouns “I,” “you,” and “me.” All subjects were able to comprehend these pronouns within the test situations, and there were few instances of pronoun reversal. However, autistic subjects were significantly less likely to employ the pronoun “me” in a visual perspective-taking task (when instead they tended to say: ‘I can see the ...’), and lower ability subjects were more likely to use their own proper names rather than personal pronouns in certain photograph-naming tasks. There were also circumstances in which autistic subjects were less likely than controls to employ the pronoun “you” to refer to the experimenter. A high proportion of these autistic subjects were reported to have current difficulties with personal pronouns in their everyday life, and we discuss some alternative interpretations of the results.
+
+---------------
+
+232 citations: O'Connor, I., & Klein, M. (2004). Exploration of Strategies for Facilitating the Reading Comprehension of High-Functioning Students with Autism Spectrum Disorders. Journal of Autism and Developmental Disorders, 34(2), 115-127.
+
+Abstract:
+Many students with autism spectrum disorders show good decoding combined with poor comprehension. Twenty adolescent students with autism spectrum disorders participated in a study concerning the effects of three kinds of facilitation on reading comprehension. In a within-subjects design, each students read passages under four conditions: answering prereading questions, completing cloze sentences embedded in the text, resolving anaphora by identifying relevant antecedents, and control (reading only). A repeated measures analysis of variance indicated that conditions differed significantly in their effects on reading comprehension. Post hoc contrasts showed that the effects of anaphoric cuing were statistically significant and medium in size; the effects of prereading questions and cloze completion were small and not statistically significant. Instructional implications for text preparation, remedial instruction, and the design of educational software are discussed.
+
+
+---------------
 
 202 citations: Conversational behaviors in youth with high-functioning ASD and Asperger syndrome
 R Paul, SM Orlovski, HC Marcinko… - Journal of autism and …, 2009 - Springer
@@ -59,9 +83,6 @@ Limited notes, not immediately applicable to current study
 * Based on ADOS interviews
 * Pragmatic Rating Scale used as measure
 * PRS # 16 which includes "Failure to reference pronouns" did not show sign. group differences
-
-
-
 
 -----------
 
@@ -127,8 +148,13 @@ C Millward, S Powell, D Messer, R Jordan - Journal of Autism and …, 2000 - Spr
 175 citations: Role reversal imitation and language in typically developing infants and children with autism
 M Carpenter, M Tomasello, T Striano - Infancy, 2005 - Wiley Online Library
 
+-----------
 146 citations: Communication behaviors in autism and developmental language delay
 SH Landry, KA Loveland - Journal of Child Psychology and …, 1988 - Wiley Online Library
+
+Abstract:  The communicative behavior of autistic and developmental language delay (DLD) children matched for nonverbal mental age and mean length of utterance (MLU) was compared to that of normally‐developing (ND) 2‐yr‐olds. Autistic children were less able than other children to respond correctly to language or gestures used to direct their attention, used attention directing (pointing, showing) less frequently, and produced more echolalic speech when making requests. DLD and ND children differed only in number of pronouns used while requesting. Attention‐directing gestures were associated with receptive and expressive language abilities for autistic, DLD and normal children.
+
+------------------
 
 131 citations: Delayed language onset as a predictor of clinical symptoms in pervasive developmental disorders
 R Eisenmajer, M Prior, S Leekam, L Wing… - Journal of Autism and …, 1998 - Springer
