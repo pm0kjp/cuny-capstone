@@ -2,8 +2,23 @@
 
 ## Contents of This Repository
 
-* [Glossary of terms](documentation/glossary.md)
-* [Lit Review notes](documentation/lit_review.md)
+Each subdirectory will have its own README that can provide detailed information about its contents.
+
+* [Documentation](documentation)
+	- [Glossary](documentation/glossary.md) 
+	- [Methods](documentation/Methods.md) 
+* [Lit Review](lit_review)
+	- [Search Results from Google Scholar: Autism and Blogging](lit_review/google_scholar_bloggers.md)
+	- [Search Results from Google Scholar: Autism and Pronouns](lit_review/google_scholar_pronouns.md)
+	- [Search Results from Pubmed: Autism and Pronouns](lit_review/pubmed_autism_pronouns.md)
+	- [Articles Referenced From Other Articles](lit_review/referenced_articles.md)
+* [Scripts](scripts)
+	- [Blog Scraper](scripts/scrape_blogs.ipynb)
+	- [Blog Analyzer](scripts/analyze_blogs.ipynb)
+	- [TF/IDF Analyzer](scripts/tf_idf_analysis.ipynb)
+	- [Watson Topic Analyzer](scripts/watson_analysis.ipynb)
+	- [Statistical Comparison](scripts/statistical_comparisons.ipynb)
+
 
 ## Background and Goals
 
@@ -38,9 +53,10 @@ This study is exempt from review under exemption 4.  This author has completed H
 ### Literature Review
 
 Lit review is under construction right now.  There is a [very rough draft](lit_review/lit_review_draft.md) as well as some [notes on various publications](lit_review) in this repo.
+
 ### Cohort Selection
 
- The more difficult cohort to assemble will be bloggers with self-disclosed autism.  Once that cohort is complete, preliminary analysis on blog topics will allow me to see if matching controls by topic will be doable.
+The more difficult cohort to assemble will be bloggers with self-disclosed autism.  Once that cohort is complete, preliminary analysis on blog topics will allow me to see if matching controls by topic will be doable.
 
 ### Blog Mining
 
