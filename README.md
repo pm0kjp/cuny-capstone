@@ -12,6 +12,8 @@ Each subdirectory will have its own README that can provide detailed information
 	- [Search Results from Google Scholar: Autism and Pronouns](lit_review/google_scholar_pronouns.md)
 	- [Search Results from Pubmed: Autism and Pronouns](lit_review/pubmed_autism_pronouns.md)
 	- [Articles Referenced From Other Articles](lit_review/referenced_articles.md)
+	- [Lit Review Outline](lit_review/lit_review_outline.md)
+	- [Lit Review Draft](lit_review/lit_review_draft.md)
 * [Scripts](scripts)
 	- [Blog Scraper](scripts/scrape_blogs.ipynb)
 	- [Blog Analyzer](scripts/analyze_blogs.ipynb)
@@ -19,6 +21,11 @@ Each subdirectory will have its own README that can provide detailed information
 	- [Watson Topic Analyzer](scripts/watson_analysis.ipynb)
 	- [Statistical Comparison](scripts/statistical_comparisons.ipynb)
 
+## What is *Not* Included in This Repository
+
+This study requires lists of blogs, both cases (autistic bloggers) and controls (bloggers who do not self-disclose an autism diagnosis).  For purposes of human subjects protection, these lists are not included.  Additionally, scripts in this repository generate text corpora extracted from the listed blogs.  Again, these texts are not included in the repository.  Detailed instructions for how to create lists comparable to the ones used here are included in scripts and README files to allow for maximal reproducibility while maintaining confidentiality for bloggers.
+
+Additionally, topic matching was done using the IBM Watson topic concept analyzer, which requires an API username and password.  These credentials were not included in this repository but can be generated free of charge by anyone interested in replicating this study.
 
 ## Background and Goals
 
@@ -48,7 +55,11 @@ For research to be truly reproducible, hypotheses should be declared ahead of an
 
 ### Human Subjects Protection
 
-This study is exempt from review under exemption 4.  This author has completed Human Subjects Protection training through CITI.
+Because we are dealing with human subjects (writing samples found on public blogs), we have to consider human subjects protection.  I have completed human subjects protection training and been approved for an IRB exemption from oversight (CUNY IRB submission number 2018-0208).  
+
+The research proposal was reviewed on 03/05/2018 and does not require CUNY HRPP or IRB review.  It does not involve human subjects as defined by CUNY HRPP: A living individual about whom an investigator (whether professional or student) conducting research obtains (1) data through Intervention or interaction with the individual, or (2) identifiable private information. 
+
+This study is exempt from review under exemption type 4.  This author has completed Human Subjects Protection training through CITI and has instituted data protections to maintain the confidentiality of bloggers included in this study.
 
 ### Literature Review
 
@@ -56,7 +67,9 @@ Lit review is under construction right now.  There is a [very rough draft](lit_r
 
 ### Cohort Selection
 
-The more difficult cohort to assemble will be bloggers with self-disclosed autism.  Once that cohort is complete, preliminary analysis on blog topics will allow me to see if matching controls by topic will be doable.
+The initial potential cohort of cases consisted of over 1600 blogs written by people who self-disclose an autism diagnosis.  Then, this list was filtered such that only WordPress bloggers with clear evidence of being over age 18 were selected.  
+
+The controls cohort was created by searching for WordPress blogs unrelated to autism.  The list was filtered by topic matching, such that there is a 1:1 case:control model with individual blog posts matched by topic.  Topic was determined using IBM Watson topic concept parsing.
 
 ### Blog Mining
 
@@ -65,6 +78,10 @@ Blog scraping will take place using Beautiful Soup 4, a python package.
 ### Linguistic Analysis
 
 I will gather data on pronoun usage and other parts of speech based on the Penn Treebank part of speech tagger in the Natural Language Tool Kit.
+
+### Topic Matching
+
+We will match cases and controls based on topic using Watson topic analyzer, meta keyword analysis, and/or TF/IDF keyword extraction.
 
 ### Statistical Methods
 
