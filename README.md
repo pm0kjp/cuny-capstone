@@ -2,23 +2,10 @@
 
 ## Contents of This Repository
 
-Each subdirectory will have its own README that can provide detailed information about its contents.
-
-* [Documentation](documentation)
-	- [Glossary](documentation/glossary.md) 
-	- [Methods](documentation/Methods.md) 
-* [Lit Review](lit_review)
-	- [Search Results from Google Scholar: Autism and Blogging](lit_review/google_scholar_bloggers.md)
-	- [Search Results from Google Scholar: Autism and Pronouns](lit_review/google_scholar_pronouns.md)
-	- [Search Results from Pubmed: Autism and Pronouns](lit_review/pubmed_autism_pronouns.md)
-	- [Articles Referenced From Other Articles](lit_review/referenced_articles.md)
-	- [Lit Review Outline](lit_review/lit_review_outline.md)
-	- [Lit Review Draft](lit_review/lit_review_draft.md)
 * [Scripts](scripts)
 	- [Blog Scraper](scripts/scrape_blogs.ipynb)
 	- [Blog Analyzer](scripts/analyze_blogs.ipynb)
-	- [TF/IDF Analyzer](scripts/tf_idf_analysis.ipynb)
-	- [Watson Topic Analyzer](scripts/watson_analysis.ipynb)
+	- [Topic Analyzer](scripts/topic_keyword_analysis.ipynb)
 	- [Statistical Comparison](scripts/statistical_comparisons.ipynb)
 
 ## What is *Not* Included in This Repository
@@ -60,10 +47,6 @@ Because we are dealing with human subjects (writing samples found on public blog
 The research proposal was reviewed on 03/05/2018 and does not require CUNY HRPP or IRB review.  It does not involve human subjects as defined by CUNY HRPP: A living individual about whom an investigator (whether professional or student) conducting research obtains (1) data through Intervention or interaction with the individual, or (2) identifiable private information. 
 
 This study is exempt from review under exemption type 4.  This author has completed Human Subjects Protection training through CITI and has instituted data protections to maintain the confidentiality of bloggers included in this study.
-
-### Literature Review
-
-Lit review is under construction right now.  There is a [very rough draft](lit_review/lit_review_draft.md) as well as some [notes on various publications](lit_review) in this repo.
 
 ### Cohort Selection
 
